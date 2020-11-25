@@ -17,3 +17,8 @@
 - [ ] Network Training
 - [ ] Drone Control (Velocity)
 - [ ] Path Finding
+
+## 4. Reference
+- Labeling Tool 1 [[github]](https://github.com/tzutalin/labelImg)
+- Labeling Tool 2 [[github]](https://github.com/developer0hye/Yolo_Label)
+- Object Detection on DJI Tello [[github]](https://github.com/dronefreak/dji-tello-object-detection-segmentation)
